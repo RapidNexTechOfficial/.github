@@ -16,9 +16,7 @@ We help startups and enterprises scale faster with intelligent automation and po
 - IT Consulting & Digital Transformation
 
 ### 🛠️ Featured Projects
-- **Hafiz App** — AI-powered Quran revision & recitation tracking
-- **KidLock+** — Smart parental control with Islamic content
-- **Kgulf Hosting** — Hosting automation with WHMCS and API integrations
+- **Will be Listed soon** 
 
 ### 📫 Contact Us
 🌐 [https://rapidnextech.vercel.app](https://rapidnextech.vercel.app)  
